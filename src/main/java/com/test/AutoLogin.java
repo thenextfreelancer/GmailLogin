@@ -21,7 +21,7 @@ public class AutoLogin
    @BeforeClass(alwaysRun = true)
    public void setUp() throws Exception
    {
-      System.setProperty("webdriver.gecko.driver", "lib/geckodriver.exe");
+      System.setProperty("webdriver.gecko.driver", "lib//geckodriver.exe");
       gutil = new GmailUtil();
    }
 
