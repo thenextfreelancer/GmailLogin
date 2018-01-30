@@ -14,7 +14,7 @@ It reads the UserName/Password from Excel(XLS/XLSX) adn store it in memory. And 
 5. Close the browser
 
 # How to execute
-It has every dependency included. You just need to download(or checkout) and run following commands:
+It has every dependency included. You just need to download(or checkout) and run following commands under the project folder:
 
 >run-app.bat      
 
